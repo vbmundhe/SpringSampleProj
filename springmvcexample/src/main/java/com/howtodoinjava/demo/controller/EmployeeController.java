@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import com.howtodoinjava.demo.service.EmployeeManager;
 
 @Controller
-@RequestMapping("/emp")
+@RequestMapping("/employee-module")
 public class EmployeeController 
 {
 	@Autowired
