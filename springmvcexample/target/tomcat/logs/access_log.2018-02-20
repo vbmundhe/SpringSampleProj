@@ -1,2 +1,14 @@
 0:0:0:0:0:0:0:1 - - [20/Feb/2018:11:32:04 +0530] "GET /springmvcexample/emp/getAllEmployees HTTP/1.1" 200 420 http-bio-8080-exec-1 212
 0:0:0:0:0:0:0:1 - - [20/Feb/2018:11:32:05 +0530] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [20/Feb/2018:23:04:10 +0530] "GET /springmvcexample/employee-module/getAllEmployees HTTP/1.1" 500 12806 http-bio-8080-exec-1 289
+0:0:0:0:0:0:0:1 - - [20/Feb/2018:23:07:19 +0530] "GET /springmvcexample/employee-module/getAllEmployees HTTP/1.1" 500 13516 http-bio-8080-exec-3 127
+0:0:0:0:0:0:0:1 - - [20/Feb/2018:23:07:23 +0530] "GET /springmvcexample/employee-module/getAllEmployees HTTP/1.1" 500 13516 http-bio-8080-exec-2 89
+0:0:0:0:0:0:0:1 - - [20/Feb/2018:23:07:24 +0530] "GET /springmvcexample/employee-module/getAllEmployees HTTP/1.1" 500 13516 http-bio-8080-exec-1 109
+0:0:0:0:0:0:0:1 - - [20/Feb/2018:23:07:25 +0530] "GET /springmvcexample/employee-module/getAllEmployees HTTP/1.1" 500 13516 http-bio-8080-exec-4 65
+0:0:0:0:0:0:0:1 - - [20/Feb/2018:23:07:25 +0530] "GET /springmvcexample/employee-module/getAllEmployees HTTP/1.1" 500 13516 http-bio-8080-exec-5 92
+0:0:0:0:0:0:0:1 - - [20/Feb/2018:23:07:29 +0530] "GET /springmvcexample/employee-module/getAllEmployees HTTP/1.1" 500 13516 http-bio-8080-exec-6 61
+0:0:0:0:0:0:0:1 - - [20/Feb/2018:23:07:30 +0530] "GET /springmvcexample/employee-module/getAllEmployees HTTP/1.1" 500 13516 http-bio-8080-exec-7 90
+0:0:0:0:0:0:0:1 - - [20/Feb/2018:23:07:31 +0530] "GET /springmvcexample/employee-module/getAllEmployees HTTP/1.1" 500 13516 http-bio-8080-exec-8 52
+0:0:0:0:0:0:0:1 - - [20/Feb/2018:23:07:33 +0530] "GET /springmvcexample/emp/getAllEmployees HTTP/1.1" 500 13516 http-bio-8080-exec-9 60
+0:0:0:0:0:0:0:1 - - [20/Feb/2018:23:07:37 +0530] "GET /springmvcexample/emp/getAllEmployees HTTP/1.1" 500 13516 http-bio-8080-exec-10 49
+0:0:0:0:0:0:0:1 - - [20/Feb/2018:23:08:11 +0530] "GET /springmvcexample/emp/getAllEmployees HTTP/1.1" 500 13516 http-bio-8080-exec-3 83
